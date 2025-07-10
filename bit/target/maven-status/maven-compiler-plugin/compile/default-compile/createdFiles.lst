@@ -1,0 +1,12 @@
+bit\commands\PullCommand.class
+bit\utils\FileHasher.class
+bit\commands\StatusCommand.class
+bit\commands\PushCommand.class
+bit\commands\UndoCommand.class
+bit\commands\RemoteCommand.class
+bit\commands\AddCommand.class
+bit\commands\InitCommand.class
+bit\commands\CommitCommand.class
+bit\Bit.class
+bit\commands\RunnableCommand.class
+bit\commands\MergeCommand.class
